@@ -11,15 +11,25 @@ Pull requests welcome! Or add an issue, or tweet
 
 Based on [Karl Broman's](http://kbroman.org) template from the [rstudio::conf 2017](https://github.com/kbroman/RStudioConf2017Slides).
 
-Video: [official live stream](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
-
 ---
 
 ## Saturday 2018-02-03
 
+Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
+
 - [Machine Learning with R and TensorFlow](https://beta.rstudioconnect.com/ml-with-tensorflow-and-r/), [JJ Allaire](https://github.com/jjallaire), [@fly_upside_down](https://twitter.com/fly_upside_down)
 
+- [Five packages in five weeks - from boredom to contribution via blogging](http://giorasimchoni.com/rstudio_conf_2018_talk.html), [Giora Simchoni](http://giorasimchoni.com/), [@GioraSimchoni](https://twitter.com/GioraSimchoni)
+
+- [You can make a package in 20 minutes](https://github.com/jimhester/presentations/tree/master/2018_02_03-You-can-make-a-package-in-20-minutes#readme), [Jim Hester](http://www.jimhester.com/), [@jimhester_](https://twitter.com/jimhester_)
+
+
+
+---
+
 ## Friday 2018-02-02
+
+Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Blogdown](https://slides.yihui.name/2018-blogdown-rstudio-conf-Yihui-Xie.html#1), [Yihui Xie](https://yihui.name/), [@xieyihui](https://twitter.com/xieyihui)
 
