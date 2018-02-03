@@ -53,3 +53,4 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Make shiny fast by doing as little work as possible](https://tailrecursion.com/slides/fast-shiny/#/title-slide), [Alan Dipert](https://tailrecursion.com/~alan/index.cgi/index.html), [@alandipert](https://twitter.com/alandipert)
  
+- [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr) 
