@@ -23,7 +23,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [You can make a package in 20 minutes](https://github.com/jimhester/presentations/tree/master/2018_02_03-You-can-make-a-package-in-20-minutes#readme), [Jim Hester](http://www.jimhester.com/), [@jimhester_](https://twitter.com/jimhester_)
 
-
+- [Deploying TensorFlow models with tfdeploy](http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf), [Javier Luraschi](https://github.com/javierluraschi), [@javierluraschi](https://twitter.com/javierluraschi)
 
 ---
 
