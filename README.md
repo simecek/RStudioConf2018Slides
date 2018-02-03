@@ -25,6 +25,10 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Deploying TensorFlow models with tfdeploy](http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf), [Javier Luraschi](https://github.com/javierluraschi), [@javierluraschi](https://twitter.com/javierluraschi)
 
+- [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ismayc/talks/master/rstudioconf18/slide_deck.html), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
+
+
+
 ---
 
 ## Friday 2018-02-02
