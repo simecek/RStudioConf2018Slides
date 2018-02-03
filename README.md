@@ -15,6 +15,10 @@ Video: [official live stream](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ---
 
+## Saturday 2018-02-03
+
+- [Machine Learning with R and TensorFlow](https://beta.rstudioconnect.com/ml-with-tensorflow-and-r/), [JJ Allaire](https://github.com/jjallaire), [@fly_upside_down](https://twitter.com/fly_upside_down)
+
 ## Friday 2018-02-02
 
 - [Blogdown](https://slides.yihui.name/2018-blogdown-rstudio-conf-Yihui-Xie.html#1), [Yihui Xie](https://yihui.name/), [@xieyihui](https://twitter.com/xieyihui)
