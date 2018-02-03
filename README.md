@@ -1,7 +1,7 @@
 # Links to slides from rstudio::conf 2018
 
-Links to slides to talks at the 2018
-[rstudio::conf](https://www.rstudio.com/conference/)
+Links to slides for talks at the
+[rstudio::conf](https://www.rstudio.com/conference/) 2018
 
 Schedule: <https://www.rstudio.com/conference/#conference>
 
@@ -58,3 +58,23 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 - [Make shiny fast by doing as little work as possible](https://tailrecursion.com/slides/fast-shiny/#/title-slide), [Alan Dipert](https://tailrecursion.com/~alan/index.cgi/index.html), [@alandipert](https://twitter.com/alandipert)
  
 - [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr) 
+
+---
+
+## Training Days
+
+- [Intro to R & RStudio](https://github.com/AmeliaMN/IntroToR), [Amelia McNamara](http://www.science.smith.edu/~amcnamara/), [@AmeliaMN](https://twitter.com/AmeliaMN)
+
+- [Data Science in the Tidyverse](https://github.com/cwickham/data-science-in-tidyverse), [Charlotte Wickham](http://cwick.co.nz/), [@cvwickham](https://twitter.com/cvwickham)
+
+- [Intro to Shiny & R Markdown](https://github.com/mine-cetinkaya-rundel/rstudioconf-2018-intro-shiny-rmarkdown), [Mine Çetinkaya-Rundel](http://www2.stat.duke.edu/~mc301/), [@minebocek](https://twitter.com/minebocek)
+
+- [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2018), [Max Kuhn](https://github.com/topepo)
+
+- [Intermediate Shiny](https://github.com/jcheng5/shiny-training-rstudioconf-2018), [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng)
+
+- [What They Forgot to Teach You About R](https://github.com/jennybc/what-they-forgot) (aka Getting S*%! Done in R),
+[Jenny Bryan](https://github.com/jennybc), [@JennyBryan](https://twitter.com/JennyBryan)
+
+- [Tidyverse Train-the-Trainer](https://github.com/rstudio-education/teach-the-tidyverse), [Garrett Grolemund](https://github.com/garrettgman), [@statgarrett](https://twitter.com/statgarrett)
+
