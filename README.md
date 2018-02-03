@@ -17,6 +17,10 @@ Based on [Karl Broman's](http://kbroman.org) template from the [rstudio::conf 20
 
 Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
+- [Teach the Tidyverse to beginners](https://github.com/rstudio/rstudio-conf/tree/master/2018/TeachTidyverse-DavidRobinson), [David Robinson](http://varianceexplained.org/), [@drob](https://twitter.com/drob)
+
+- [Modeling in the tidyverse](https://github.com/rstudio/rstudio-conf/tree/master/2018/Modeling_in_the_Tidyverse--Max_Kuhn), [Max Kuhn](https://github.com/topepo)
+
 - [Machine Learning with R and TensorFlow](https://beta.rstudioconnect.com/ml-with-tensorflow-and-r/), [JJ Allaire](https://github.com/jjallaire), [@fly_upside_down](https://twitter.com/fly_upside_down)
 
 - [Five packages in five weeks - from boredom to contribution via blogging](http://giorasimchoni.com/rstudio_conf_2018_talk.html), [Giora Simchoni](http://giorasimchoni.com/), [@GioraSimchoni](https://twitter.com/GioraSimchoni)
@@ -58,6 +62,8 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 - [Make shiny fast by doing as little work as possible](https://tailrecursion.com/slides/fast-shiny/#/title-slide), [Alan Dipert](https://tailrecursion.com/~alan/index.cgi/index.html), [@alandipert](https://twitter.com/alandipert)
  
 - [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr) 
+
+- [Debugging techniques in RStudio](https://github.com/ajmcoqui/debuggingRStudio), [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui)
 
 ---
 
