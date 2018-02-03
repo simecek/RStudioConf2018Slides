@@ -9,9 +9,9 @@ Pull requests welcome! Or add an issue, or tweet
 [@simecek](https://twitter.com/simecek) or email
 [Petr Simecek](http://www.google.com/recaptcha/mailhide/d?k=01Sq44R95fB59PDhzVrseCZg==&c=cn4529_e9KalygaXOLepFdgH5UafV3LG93pXdpGY3vg=).
 
-[Official Live Stream](https://www.youtube.com/watch?v=ogy7rHWlsQ8) now available!
-
 Based on [Karl Broman's](http://kbroman.org) template from the [rstudio::conf 2017](https://github.com/kbroman/RStudioConf2017Slides).
+
+Video: [official live stream](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ---
 
@@ -33,7 +33,7 @@ Based on [Karl Broman's](http://kbroman.org) template from the [rstudio::conf 20
 
 - [The lesser known stars of the tidyverse](https://github.com/robinsones/rstudio-conf-2018-talk), [Emily Robinson](https://robinsones.github.io/), [@robinson_es](https://twitter.com/robinson_es)
 
-- [infer: a package for tidy statistical inference](bit.ly/2DYoBOz), [Andrew Bray](http://infer.netlify.com/)
+- [infer: a package for tidy statistical inference](http://bit.ly/2DYoBOz), [Andrew Bray](http://infer.netlify.com/)
 
 - [RStudio 1.1 new features](https://kevinushey-2018-rstudio-conf.netlify.com/slides.html#1), [Kevin Ushey](http://kevinushey.github.io/), [@kevin_ushey](https://twitter.com/kevin_ushey)
 
