@@ -31,7 +31,9 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ismayc/talks/master/rstudioconf18/slide_deck.html), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
 
+- [Drill-down reporting with Shiny](https://github.com/bborgesr/rstudio-conf-2018), [Barbara Borges Ribeiro](https://github.com/bborgesr)
 
+- [The R Admin is rad: A guide to professional R tooling and integration](https://github.com/nwstephens/r-admin-2018), [Nathan Stephens](https://github.com/nwstephens), [@nwstephens](https://twitter.com/nwstephens)
 
 ---
 
