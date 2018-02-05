@@ -35,6 +35,10 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [The R Admin is rad: A guide to professional R tooling and integration](https://github.com/nwstephens/r-admin-2018), [Nathan Stephens](https://github.com/nwstephens), [@nwstephens](https://twitter.com/nwstephens)
 
+- [Training an army of new data scientists](https://www.slideshare.net/Pinnacle_Twitter/r-studio-conference), Marco Blume, [@PinnacleSports](https://twitter.com/PinnacleSports)
+
+- [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme)
+
 ---
 
 ## Friday 2018-02-02
