@@ -71,6 +71,8 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Debugging techniques in RStudio](https://github.com/ajmcoqui/debuggingRStudio), [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui)
 
+- [Phrasing: communicating data science through tweets, gifs, and classic misdirection](https://github.com/batpigandme/phrasing), [Mara Averick, @dataandme](https://twitter.com/dataandme)
+
 ---
 
 ## Training Days
