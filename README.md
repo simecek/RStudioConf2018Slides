@@ -35,6 +35,10 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [The R Admin is rad: A guide to professional R tooling and integration](https://github.com/nwstephens/r-admin-2018), [Nathan Stephens](https://github.com/nwstephens), [@nwstephens](https://twitter.com/nwstephens)
 
+- [Training an army of new data scientists](https://www.slideshare.net/Pinnacle_Twitter/r-studio-conference), Marco Blume, [@PinnacleSports](https://twitter.com/PinnacleSports)
+
+- [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme)
+
 ---
 
 ## Friday 2018-02-02
@@ -66,6 +70,8 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 - [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr) 
 
 - [Debugging techniques in RStudio](https://github.com/ajmcoqui/debuggingRStudio), [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui)
+
+- [Phrasing: communicating data science through tweets, gifs, and classic misdirection](https://github.com/batpigandme/phrasing), [Mara Averick, @dataandme](https://twitter.com/dataandme)
 
 ---
 
