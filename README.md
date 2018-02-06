@@ -5,6 +5,8 @@ Links to slides for talks at the
 
 Schedule: <https://www.rstudio.com/conference/#conference>
 
+Official [rstudio-conf repo](https://github.com/rstudio/rstudio-conf/tree/master/2018) for all the materials
+
 Pull requests welcome! Or add an issue, or tweet
 [@simecek](https://twitter.com/simecek) or email
 [Petr Simecek](http://www.google.com/recaptcha/mailhide/d?k=01Sq44R95fB59PDhzVrseCZg==&c=cn4529_e9KalygaXOLepFdgH5UafV3LG93pXdpGY3vg=).
@@ -39,6 +41,9 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme)
 
+- [Parameterized R Markdown reports with RStudio Connect](https://github.com/rstudio/rstudio-conf/tree/master/2018/Fruit_For_Thought--Aron_Atkins) (Fruit for Thought), [Aron Atkins](http://gweep.net/~aron/), [@aronatkins](https://twitter.com/aronatkins)
+
+- [How I Learned to Stop Worrying and Love the Firewall](https://github.com/rstudio/rstudio-conf/tree/master/2018/Stop_Worrying_Love_The_Firewall--Ian_Lyttle), [Ian Lyttle](https://github.com/ijlyttle/), [@ijlyttle](https://twitter.com/ijlyttle)
 ---
 
 ## Friday 2018-02-02
