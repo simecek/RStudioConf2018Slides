@@ -97,7 +97,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Tidy spatial data analysis](https://github.com/edzer/rstudio_conf), [Edzer Pebesma](https://github.com/edzer)
 
-- The future of time series and financial analysis in the tidyverse, [Davis Vaughan](https://github.com/DavisVaughan?tab=repositories)
+- [The future of time series and financial analysis in the tidyverse](https://github.com/business-science/presentations/tree/master/2018_02_02_rstudio-conf-2018/presentation), [Davis Vaughan](https://github.com/DavisVaughan?tab=repositories), [@dvaughan32](https://twitter.com/dvaughan32)
 
 - [infer: a package for tidy statistical inference](http://bit.ly/2DYoBOz), [Andrew Bray](http://infer.netlify.com/)
 
