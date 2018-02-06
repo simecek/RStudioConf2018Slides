@@ -107,8 +107,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - Scaling Shiny apps with async programming, Joe Cheng
 
-- Developing robust shiny apps with regression testing
-Winston Chang
+- [Developing robust shiny apps with regression testing](https://github.com/rstudio/rstudio-conf/tree/master/2018/Shinytest-Winston_Chang), [Winston Chang](https://github.com/wch), [@winston_chang](https://twitter.com/winston_chang)
 
 - [Make shiny fast by doing as little work as possible](https://tailrecursion.com/slides/fast-shiny/#/title-slide), [Alan Dipert](https://tailrecursion.com/~alan/index.cgi/index.html), [@alandipert](https://twitter.com/alandipert)
 
