@@ -47,6 +47,8 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Augmenting data exploration with interactive graphics](https://talks.cpsievert.me/20180202), [Carson Sievert](http://cpsievert.me/), [@cpsievert](http://twitter.com/cpsievert/)
 
+- [To the tidyverse and beyond: Challenges for the Future in Data Science](http://www.dicook.org/files/rstudio/#1), [Diane Cook](http://www.dicook.org/), [@visnut](https://twitter.com/visnut)
+
 - [Blogdown](https://slides.yihui.name/2018-blogdown-rstudio-conf-Yihui-Xie.html#1), [Yihui Xie](https://yihui.name/), [@xieyihui](https://twitter.com/xieyihui)
 
 - [Tidying up your network analysis with tidygraph and ggraph](https://www.data-imaginist.com/slides/rstudioconf2018/assets/player/keynotedhtmlplayer#0), [Thomas Lin Pedersen](https://github.com/thomasp85), [@thomasp85](https://twitter.com/thomasp85)
