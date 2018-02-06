@@ -29,7 +29,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [You can make a package in 20 minutes](https://github.com/jimhester/presentations/tree/master/2018_02_03-You-can-make-a-package-in-20-minutes#readme), [Jim Hester](http://www.jimhester.com/), [@jimhester_](https://twitter.com/jimhester_)
 
-- What makes a great R package?, Joseph Rickert
+- [What makes a great R package?](https://github.com/joseph-rickert/RStudio-conf_2018), [Joseph Rickert](https://github.com/joseph-rickert), [@rstudiojoe](https://twitter.com/rstudiojoe)
 
 - [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme)
 
@@ -71,11 +71,11 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - Agile data science, Elaine McVey
 
-- Storytelling with R, Olga Pierce
+- [Storytelling with R](https://github.com/eamcvey/rstudio-conf/blob/master/2018/OP_Storytelling_with_R.pptx), [Olga Pierce](https://www.propublica.org/people/olga-pierce), [@olgapierce](https://twitter.com/olgapierce)
 
 ### Production-2
 
-- Sharing analysis results with RStudio Connect, Jeff Allen
+- [Sharing analysis results with RStudio Connect](https://github.com/trestletech/rsconf-2018), [Jeff Allen](https://github.com/trestletech)
 
 - [Parameterized R Markdown reports with RStudio Connect](https://github.com/rstudio/rstudio-conf/tree/master/2018/Fruit_For_Thought--Aron_Atkins) (Fruit for Thought), [Aron Atkins](http://gweep.net/~aron/), [@aronatkins](https://twitter.com/aronatkins)
 
@@ -151,7 +151,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - Beyond R: Using R Markdown with python, sql, bash, and more, Aaron Berg
 
-- [Branding and automating your work with R Markdown](https://github.com/Sorenson-Impact/rmarkdown-branding-talk), Daniel Hadley
+- [Branding and automating your work with R Markdown](https://github.com/Sorenson-Impact/rmarkdown-branding-talk), [Daniel Hadley](http://danielphadley.com/), [@danielphadley](https://twitter.com/danielphadley)
 
 ### Programming
 
@@ -182,7 +182,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Best practices for working with databases](https://github.com/edgararuiz/db_best_practices_2018/blob/master/best_practices.pdf), [Edgar Ruiz](https://www.linkedin.com/in/edgararuiz), [@theotheredgar](https://twitter.com/theotheredgar)
 
-- [Plumber: turning your R code into an API](https://github.com/trestletech/rsconf-2018), Jeff Allen
+- [Plumber: turning your R code into an API](https://github.com/trestletech/rsconf-2018), [Jeff Allen](https://github.com/trestletech)
 
 ---
 
