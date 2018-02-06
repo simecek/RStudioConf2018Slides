@@ -96,10 +96,14 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Intermediate Shiny](https://github.com/jcheng5/shiny-training-rstudioconf-2018), [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng)
 
+- [Extending the Tidyverse](http://rstd.io/tidy-tools), [Hadley Wickham](https://github.com/hadley), [@hadleywickham](https://twitter.com/hadleywickham)
+
 - [What They Forgot to Teach You About R](https://github.com/jennybc/what-they-forgot) (aka Getting S*%! Done in R),
 [Jenny Bryan](https://github.com/jennybc), [@JennyBryan](https://twitter.com/JennyBryan)
 
 - [Big Data with R](https://github.com/rstudio/bigdataclass2018/), [Edgar Ruiz](https://www.linkedin.com/in/edgararuiz/), [@theotheredgar](https://twitter.com/theotheredgar)
 
 - [Tidyverse Train-the-Trainer](https://github.com/rstudio-education/teach-the-tidyverse), [Garrett Grolemund](https://github.com/garrettgman), [@statgarrett](https://twitter.com/statgarrett)
+
+
 
