@@ -59,7 +59,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - Kaggle in the classroom: using R and GitHub to run predictive modeling competitions, Colin Rundel
 
-- [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ismayc/talks/master/rstudioconf18/slide_deck.html), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
+- [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://github.com/rstudio/rstudio-conf/tree/master/2018/ModernDive_Something_Blue-Chester_Ismay), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
 
 - [Training an army of new data scientists](https://www.slideshare.net/Pinnacle_Twitter/r-studio-conference), Marco Blume, [@PinnacleSports](https://twitter.com/PinnacleSports)
 
@@ -69,7 +69,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - Imagine Boston 2030: Using R-Shiny to keep ourselves accountable and empower the public, Kayla Patel
 
-- Agile data science, Elaine McVey
+- [Agile data science](https://github.com/rstudio/rstudio-conf/tree/master/2018/Agile_Data_Science--Elaine_McVey), [Elaine McVey](https://github.com/eamcvey), [@eamcvey](https://twitter.com/eamcvey)
 
 - [Storytelling with R](https://github.com/eamcvey/rstudio-conf/blob/master/2018/OP_Storytelling_with_R.pptx), [Olga Pierce](https://www.propublica.org/people/olga-pierce), [@olgapierce](https://twitter.com/olgapierce)
 
