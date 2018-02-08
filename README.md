@@ -105,7 +105,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Shiny
 
-- Scaling Shiny apps with async programming, Joe Cheng
+- [Scaling Shiny apps with async programming](https://speakerdeck.com/jcheng5/r-promises), Joe Cheng, [@jcheng](https://twitter.com/jcheng)
 
 - [Developing robust shiny apps with regression testing](https://github.com/rstudio/rstudio-conf/tree/master/2018/Shinytest-Winston_Chang), [Winston Chang](https://github.com/wch), [@winston_chang](https://twitter.com/winston_chang)
 
