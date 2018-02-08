@@ -131,7 +131,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - tidycf: Turning analysis on its head by turning cashflows on their sides, Emily Riederer
 
-- [Modeling in the tidyverse](https://github.com/topepo/rstudio-conf/tree/master/2018/Modeling_in_the_Tidyverse--Max_Kuhn), [Max Kuhn](https://github.com/topepo)
+- [Modeling in the tidyverse](https://github.com/topepo/rstudio-conf/tree/master/2018/Modeling_in_the_Tidyverse--Max_Kuhn), [Max Kuhn](https://github.com/topepo), [@topepos](https://twitter.com/topepos)
 
 ### Case-study-1
 
