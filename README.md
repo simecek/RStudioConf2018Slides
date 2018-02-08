@@ -135,7 +135,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Case-study-1
 
-- The unreasonable effectiveness of empathy, JD Long
+- [The unreasonable effectiveness of empathy](https://github.com/rstudio/rstudio-conf/blob/master/2018/Rstudio_%20unreasonable%20empathy.pdf), [JD Long](https://github.com/CerebralMastication), [@CMastication](https://twitter.com/CMastication)
 
 - Open-source solutions for medical marijuana, Carl Ganz
 
