@@ -71,7 +71,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Agile data science](https://github.com/rstudio/rstudio-conf/tree/master/2018/Agile_Data_Science--Elaine_McVey), [Elaine McVey](https://github.com/eamcvey), [@eamcvey](https://twitter.com/eamcvey)
 
-- [Storytelling with R](https://github.com/eamcvey/rstudio-conf/blob/master/2018/OP_Storytelling_with_R.pptx), [Olga Pierce](https://www.propublica.org/people/olga-pierce), [@olgapierce](https://twitter.com/olgapierce)
+- [Storytelling with R](https://github.com/rstudio/rstudio-conf/tree/master/2018/Storytelling_with_R-Olga_Pierce), [Olga Pierce](https://www.propublica.org/people/olga-pierce), [@olgapierce](https://twitter.com/olgapierce)
 
 ### Production-2
 
