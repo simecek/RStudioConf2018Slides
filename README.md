@@ -49,7 +49,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Deploying TensorFlow models with tfdeploy](http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf), [Javier Luraschi](https://github.com/javierluraschi), [@javierluraschi](https://twitter.com/javierluraschi)
 
-- Building Spark ML pipelines with sparklyr, Kevin Kuo
+- [Building Spark ML pipelines with sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html), [Kevin Kuo](https://github.com/kevinykuo), [@kevinykuo](https://twitter.com/kevinykuo)
 
 - Reinforcement learning in Minecraft with CNTK-R, Ali Zaidi
 
@@ -178,7 +178,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - R for Presidents, Tareef Kawaf
 
-- [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr) 
+- [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr)
 
 - [Best practices for working with databases](https://github.com/edgararuiz/db_best_practices_2018/blob/master/best_practices.pdf), [Edgar Ruiz](https://www.linkedin.com/in/edgararuiz), [@theotheredgar](https://twitter.com/theotheredgar)
 
@@ -206,6 +206,3 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 - [Big Data with R](https://github.com/rstudio/bigdataclass2018/), [Edgar Ruiz](https://www.linkedin.com/in/edgararuiz/), [@theotheredgar](https://twitter.com/theotheredgar)
 
 - [Tidyverse Train-the-Trainer](https://github.com/rstudio-education/teach-the-tidyverse), [Garrett Grolemund](https://github.com/garrettgman), [@statgarrett](https://twitter.com/statgarrett)
-
-
-
