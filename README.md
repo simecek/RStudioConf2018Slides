@@ -129,7 +129,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Augmenting data exploration with interactive graphics](https://talks.cpsievert.me/20180202), [Carson Sievert](http://cpsievert.me/), [@cpsievert](http://twitter.com/cpsievert/)
 
-- tidycf: Turning analysis on its head by turning cashflows on their sides, Emily Riederer
+- [tidycf: Turning analysis on its head by turning cashflows on their sides](https://www.slideshare.net/EmilyRiederer/tidycf-turning-cashflows-on-their-sides-to-turn-analysis-on-its-head), [Emily Riederer](https://www.linkedin.com/in/emilyriederer/), [@EmilyRiederer](https://twitter.com/EmilyRiederer)
 
 - [Modeling in the tidyverse](https://github.com/topepo/rstudio-conf/tree/master/2018/Modeling_in_the_Tidyverse--Max_Kuhn), [Max Kuhn](https://github.com/topepo), [@topepos](https://twitter.com/topepos)
 
