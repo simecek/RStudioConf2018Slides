@@ -37,7 +37,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [Teach the Tidyverse to beginners](https://github.com/rstudio/rstudio-conf/tree/master/2018/TeachTidyverse-DavidRobinson), [David Robinson](http://varianceexplained.org/), [@drob](https://twitter.com/drob)
 
-- A SAS-to-R success story, Elizabeth J. Atkinson
+- [A SAS-to-R success story, Elizabeth J. Atkinson](https://github.com/bethatkinson/rstudio-conf-2018)
 
 - [How I Learned to Stop Worrying and Love the Firewall](https://github.com/rstudio/rstudio-conf/tree/master/2018/Stop_Worrying_Love_The_Firewall--Ian_Lyttle), [Ian Lyttle](https://github.com/ijlyttle/), [@ijlyttle](https://twitter.com/ijlyttle)
 
