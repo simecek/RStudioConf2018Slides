@@ -25,33 +25,34 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Packages
 
-- [Five packages in five weeks - from boredom to contribution via blogging](http://giorasimchoni.com/rstudio_conf_2018_talk.html), [Giora Simchoni](http://giorasimchoni.com/), [@GioraSimchoni](https://twitter.com/GioraSimchoni)
+- [Five packages in five weeks - from boredom to contribution via blogging](http://giorasimchoni.com/rstudio_conf_2018_talk.html), [Giora Simchoni](http://giorasimchoni.com/), [@GioraSimchoni](https://twitter.com/GioraSimchoni), [Video](https://www.rstudio.com/resources/videos/five-packages-in-five-weeks-from-boredom-to-contribution-via-blogging/)
 
-- [You can make a package in 20 minutes](https://github.com/jimhester/presentations/tree/master/2018_02_03-You-can-make-a-package-in-20-minutes#readme), [Jim Hester](http://www.jimhester.com/), [@jimhester_](https://twitter.com/jimhester_)
+- [You can make a package in 20 minutes](https://github.com/jimhester/presentations/tree/master/2018_02_03-You-can-make-a-package-in-20-minutes#readme), [Jim Hester](http://www.jimhester.com/), [@jimhester_](https://twitter.com/jimhester_), [Video](https://www.rstudio.com/resources/videos/you-can-make-a-package-in-20-minutes/)
 
-- [What makes a great R package?](https://github.com/joseph-rickert/RStudio-conf_2018), [Joseph Rickert](https://github.com/joseph-rickert), [@rstudiojoe](https://twitter.com/rstudiojoe)
+- [What makes a great R package?](https://github.com/joseph-rickert/RStudio-conf_2018), [Joseph Rickert](https://github.com/joseph-rickert), [@rstudiojoe](https://twitter.com/rstudiojoe), [Video](https://www.rstudio.com/resources/videos/what-makes-a-great-r-package/)
 
-- [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme)
+- [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme), [Video](https://www.rstudio.com/resources/videos/contributing-to-tidyverse-packages/), [Video](https://www.rstudio.com/resources/videos/contributing-to-tidyverse-packages/)
 
 ### Case-study-3
 
-- [Teach the Tidyverse to beginners](https://github.com/rstudio/rstudio-conf/tree/master/2018/TeachTidyverse-DavidRobinson), [David Robinson](http://varianceexplained.org/), [@drob](https://twitter.com/drob)
+- [Teach the Tidyverse to beginners](https://github.com/rstudio/rstudio-conf/tree/master/2018/TeachTidyverse-DavidRobinson), [David Robinson](http://varianceexplained.org/), [@drob](https://twitter.com/drob), [Video](https://www.rstudio.com/resources/videos/teach-the-tidyverse-to-beginners/)
 
-- [A SAS-to-R success story, Elizabeth J. Atkinson](https://github.com/bethatkinson/rstudio-conf-2018)
+- [A SAS-to-R success story, Elizabeth J. Atkinson](https://github.com/bethatkinson/rstudio-conf-2018), [Video](https://www.rstudio.com/resources/videos/a-sas-to-r-success-story/)
 
-- [How I Learned to Stop Worrying and Love the Firewall](https://github.com/rstudio/rstudio-conf/tree/master/2018/Stop_Worrying_Love_The_Firewall--Ian_Lyttle), [Ian Lyttle](https://github.com/ijlyttle/), [@ijlyttle](https://twitter.com/ijlyttle)
+- [How I Learned to Stop Worrying and Love the Firewall](https://github.com/rstudio/rstudio-conf/tree/master/2018/Stop_Worrying_Love_The_Firewall--Ian_Lyttle), [Ian Lyttle](https://github.com/ijlyttle/), [@ijlyttle](https://twitter.com/ijlyttle), [Video](https://www.rstudio.com/resources/videos/how-i-learned-to-stop-worrying-and-love-the-firewall/)
 
-- Achieving impact with advanced analytics: Breaking down the adoption barrier , Aaron Horowitz
+- Achieving impact with advanced analytics: Breaking down the adoption barrier , Aaron Horowitz, [Video](https://www.rstudio.com/resources/videos/achieving-impact-with-advanced-analytics-breaking-down-the-adoption-barrier/)
 
 ### Interop
 
-- Large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio, Michael Quinn
+- Large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio, Michael Quinn, [Video](https://www.rstudio.com/resources/videos/large-scale-machine-learning-using-tensorflow-bigquery-and-cloudml-engine-within-rstudio/)
 
-- [Deploying TensorFlow models with tfdeploy](http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf), [Javier Luraschi](https://github.com/javierluraschi), [@javierluraschi](https://twitter.com/javierluraschi)
+- [Deploying TensorFlow models with tfdeploy](http://rpubs.com/jluraschi/deploying-tensorflow-rstudio-conf), [Javier Luraschi](https://github.com/javierluraschi), [@javierluraschi](https://twitter.com/javierluraschi), [Video](https://www.rstudio.com/resources/videos/deploying-tensorflow-models-with-tfdeploy/)
 
-- [Building Spark ML pipelines with sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html), [Kevin Kuo](https://github.com/kevinykuo), [@kevinykuo](https://twitter.com/kevinykuo)
 
-- Reinforcement learning in Minecraft with CNTK-R, Ali Zaidi
+- [Building Spark ML pipelines with sparklyr](https://s3-us-west-2.amazonaws.com/kevinykuo/rsconf-sparklyr/rstudio-conf-2018-sparklyr.html), [Kevin Kuo](https://github.com/kevinykuo), [@kevinykuo](https://twitter.com/kevinykuo), [Video](https://www.rstudio.com/resources/videos/building-spark-ml-pipelines-with-sparklyr/)
+
+- Reinforcement learning in Minecraft with CNTK-R, Ali Zaidi, [Video](https://www.rstudio.com/resources/videos/reinforcement-learning-in-minecraft-with-cntk-r/)
 
 ### Teaching
 
@@ -65,13 +66,13 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Case-study-4
 
-- Differentiating by data science, Eric Colson
+- Differentiating by data science, Eric Colson, [Video](https://www.rstudio.com/resources/videos/differentiating-by-data-science/)
 
-- Imagine Boston 2030: Using R-Shiny to keep ourselves accountable and empower the public, Kayla Patel
+- Imagine Boston 2030: Using R-Shiny to keep ourselves accountable and empower the public, Kayla Patel, [Video](https://www.rstudio.com/resources/videos/imagine-boston-2030-using-r-shiny-to-keep-ourselves-accountable-and-empower-the-public/)
 
-- [Agile data science](https://github.com/rstudio/rstudio-conf/tree/master/2018/Agile_Data_Science--Elaine_McVey), [Elaine McVey](https://github.com/eamcvey), [@eamcvey](https://twitter.com/eamcvey)
+- [Agile data science](https://github.com/rstudio/rstudio-conf/tree/master/2018/Agile_Data_Science--Elaine_McVey), [Elaine McVey](https://github.com/eamcvey), [@eamcvey](https://twitter.com/eamcvey), [Video](https://www.rstudio.com/resources/videos/agile-data-science/)
 
-- [Storytelling with R](https://github.com/rstudio/rstudio-conf/tree/master/2018/Storytelling_with_R-Olga_Pierce), [Olga Pierce](https://www.propublica.org/people/olga-pierce), [@olgapierce](https://twitter.com/olgapierce)
+- [Storytelling with R](https://github.com/rstudio/rstudio-conf/tree/master/2018/Storytelling_with_R-Olga_Pierce), [Olga Pierce](https://www.propublica.org/people/olga-pierce), [@olgapierce](https://twitter.com/olgapierce), [Video](https://www.rstudio.com/resources/videos/storytelling-with-r/)
 
 ### Production-2
 
@@ -170,19 +171,19 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Understanding PCA using Shiny and Stack Overflow data](https://speakerdeck.com/juliasilge/understanding-principal-component-analysis-using-stack-overflow-data), [Julia Silge](https://juliasilge.com/), [@juliasilge](https://twitter.com/juliasilge)
 
-- Accelerating cancer research with R, Sandra Griffith
+- Accelerating cancer research with R, Sandra Griffith, [Video](https://www.rstudio.com/resources/videos/accelerating-cancer-research-with-r/)
 
-- [Developing and deploying large scale shiny applications](https://github.com/FrissAnalytics/RSTUDIO-conf-2018), Herman Sontrop
+- [Developing and deploying large scale shiny applications](https://github.com/FrissAnalytics/RSTUDIO-conf-2018), Herman Sontrop, [Video](https://www.rstudio.com/resources/videos/developing-and-deploying-large-scale-shiny-applications/)
 
 ### Production-1
 
 - R for Presidents, Tareef Kawaf
 
-- [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr)
+- [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr), [Video](https://www.rstudio.com/resources/videos/connecting-to-open-source-databases/)
 
-- [Best practices for working with databases](https://github.com/edgararuiz/db_best_practices_2018/blob/master/best_practices.pdf), [Edgar Ruiz](https://www.linkedin.com/in/edgararuiz), [@theotheredgar](https://twitter.com/theotheredgar)
+- [Best practices for working with databases](https://github.com/edgararuiz/db_best_practices_2018/blob/master/best_practices.pdf), [Edgar Ruiz](https://www.linkedin.com/in/edgararuiz), [@theotheredgar](https://twitter.com/theotheredgar), [Video](https://www.rstudio.com/resources/videos/best-practices-for-working-with-databases/)
 
-- [Plumber: turning your R code into an API](https://github.com/trestletech/rsconf-2018), [Jeff Allen](https://github.com/trestletech)
+- [Plumber: turning your R code into an API](https://github.com/trestletech/rsconf-2018), [Jeff Allen](https://github.com/trestletech), [Video](https://www.rstudio.com/resources/videos/plumber-turning-your-r-code-into-an-api/)
 
 ---
 
