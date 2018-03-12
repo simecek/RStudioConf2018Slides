@@ -145,7 +145,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Rmarkdown
 
-- [R Markdown: Eight ways](https://giTtithub.com/mine-cetinkaya-rundel/rstudioconf-2018-rmd-eight-ways), [Mine Cetinkaya-Rundel](http://www2.stat.duke.edu/~mc301/), [@minebocek](https://twitter.com/minebocek)
+- [R Markdown: Eight ways](https://github.com/mine-cetinkaya-rundel/rstudioconf-2018-rmd-eight-ways), [Mine Cetinkaya-Rundel](http://www2.stat.duke.edu/~mc301/), [@minebocek](https://twitter.com/minebocek)
 
 - Adaptive feedback for learnr tutorials, Daniel Kaplan
 
