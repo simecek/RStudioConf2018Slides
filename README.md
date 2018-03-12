@@ -55,9 +55,9 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Teaching
 
-- Data-driven curriculum development, Nick Carchedi
+- Data-driven curriculum and product development, Ramnath Vaidyanathan, [Video](https://www.rstudio.com/resources/videos/data-driven-product-development/)
 
-- Kaggle in the classroom: using R and GitHub to run predictive modeling competitions, Colin Rundel
+- Kaggle in the classroom: using R and GitHub to run predictive modeling competitions, Colin Rundel, [Video](https://www.rstudio.com/resources/videos/kaggle-in-the-classroom-using-r-and-github-to-run-predictive-modeling-competitions/)
 
 - [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://github.com/rstudio/rstudio-conf/tree/master/2018/ModernDive_Something_Blue-Chester_Ismay), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
 
@@ -75,13 +75,13 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Production-2
 
-- [Sharing analysis results with RStudio Connect](https://github.com/trestletech/rsconf-2018), [Jeff Allen](https://github.com/trestletech)
+- [Sharing analysis results with RStudio Connect](https://github.com/trestletech/rsconf-2018), [Jeff Allen](https://github.com/trestletech), [Video](https://www.rstudio.com/resources/videos/sharing-analysis-results-with-rstudio-connect/)
 
-- [Parameterized R Markdown reports with RStudio Connect](https://github.com/rstudio/rstudio-conf/tree/master/2018/Fruit_For_Thought--Aron_Atkins) (Fruit for Thought), [Aron Atkins](http://gweep.net/~aron/), [@aronatkins](https://twitter.com/aronatkins)
+- [Parameterized R Markdown reports with RStudio Connect](https://github.com/rstudio/rstudio-conf/tree/master/2018/Fruit_For_Thought--Aron_Atkins) (Fruit for Thought), [Aron Atkins](http://gweep.net/~aron/), [@aronatkins](https://twitter.com/aronatkins), [Video](https://www.rstudio.com/resources/videos/parameterized-r-markdown-reports-with-rstudio-connect/)
 
-- [Drill-down reporting with Shiny](https://github.com/bborgesr/rstudio-conf-2018), [Barbara Borges Ribeiro](https://github.com/bborgesr)
+- [Drill-down reporting with Shiny](https://github.com/bborgesr/rstudio-conf-2018), [Barbara Borges Ribeiro](https://github.com/bborgesr), [Video](https://www.rstudio.com/resources/videos/drill-down-reporting-with-shiny/)
 
-- [The R Admin is rad: A guide to professional R tooling and integration](https://github.com/nwstephens/r-admin-2018), [Nathan Stephens](https://github.com/nwstephens), [@nwstephens](https://twitter.com/nwstephens)
+- [The R Admin is rad: A guide to professional R tooling and integration](https://github.com/nwstephens/r-admin-2018), [Nathan Stephens](https://github.com/nwstephens), [@nwstephens](https://twitter.com/nwstephens), [Video](https://www.rstudio.com/resources/videos/the-r-admin-is-rad-a-guide-to-professional-r-tooling-and-integration/)
 
 ---
 
@@ -105,23 +105,23 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Shiny
 
-- [Scaling Shiny apps with async programming](https://speakerdeck.com/jcheng5/r-promises), Joe Cheng, [@jcheng](https://twitter.com/jcheng)
+- [Scaling Shiny apps with async programming](https://speakerdeck.com/jcheng5/r-promises), Joe Cheng, [@jcheng](https://twitter.com/jcheng), [Video](https://www.rstudio.com/resources/videos/scaling-shiny-apps-with-async-programming/)
 
-- [Developing robust shiny apps with regression testing](https://github.com/rstudio/rstudio-conf/tree/master/2018/Shinytest-Winston_Chang), [Winston Chang](https://github.com/wch), [@winston_chang](https://twitter.com/winston_chang)
+- [Developing robust shiny apps with regression testing](https://github.com/rstudio/rstudio-conf/tree/master/2018/Shinytest-Winston_Chang), [Winston Chang](https://github.com/wch), [@winston_chang](https://twitter.com/winston_chang), [Video](https://www.rstudio.com/resources/videos/developing-robust-shiny-apps-with-regression-testing/)
 
-- [Make shiny fast by doing as little work as possible](https://tailrecursion.com/slides/fast-shiny/#/title-slide), [Alan Dipert](https://tailrecursion.com/~alan/index.cgi/index.html), [@alandipert](https://twitter.com/alandipert)
+- [Make shiny fast by doing as little work as possible](https://tailrecursion.com/slides/fast-shiny/#/title-slide), [Alan Dipert](https://tailrecursion.com/~alan/index.cgi/index.html), [@alandipert](https://twitter.com/alandipert), [Video](https://www.rstudio.com/resources/videos/make-shiny-fast-by-doing-as-little-work-as-possible/)
 
-- [Scaling Shiny](https://github.com/slopp/shinyloadtest-results), [Sean Lopp](https://github.com/slopp)
+- [Scaling Shiny](https://github.com/slopp/shinyloadtest-results), [Sean Lopp](https://github.com/slopp), [Video](https://www.rstudio.com/resources/videos/scaling-shiny/)
 
 ### IDE/rmarkdown
 
 - [RStudio 1.1 new features](https://kevinushey-2018-rstudio-conf.netlify.com/slides.html#1), [Kevin Ushey](http://kevinushey.github.io/), [@kevin_ushey](https://twitter.com/kevin_ushey)
 
-- RStudio Server Pro 1.1 new features, Jonathan McPherson
+- RStudio Server Pro 1.1 new features, Jonathan McPherson, [Video](https://buff.ly/2FrvjRO)
 
 - Learning R with rstudio.cloud, Mel Gregory
 
-- [Blogdown](https://slides.yihui.name/2018-blogdown-rstudio-conf-Yihui-Xie.html#1), [Yihui Xie](https://yihui.name/), [@xieyihui](https://twitter.com/xieyihui)
+- [Blogdown](https://slides.yihui.name/2018-blogdown-rstudio-conf-Yihui-Xie.html), [Yihui Xie](https://yihui.name/), [@xieyihui](https://twitter.com/xieyihui), [Video](https://www.rstudio.com/resources/videos/create-and-maintain-websites-with-r-markdown-and-blogdown/)
 
 ### Tidy-2
 
@@ -145,23 +145,23 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Rmarkdown
 
-- [R Markdown: Eight ways](https://github.com/mine-cetinkaya-rundel/rstudioconf-2018-rmd-eight-ways), [Mine Cetinkaya-Rundel](http://www2.stat.duke.edu/~mc301/), [@minebocek](https://twitter.com/minebocek)
+- [R Markdown: Eight ways](https://github.com/mine-cetinkaya-rundel/rstudioconf-2018-rmd-eight-ways), [Mine Cetinkaya-Rundel](http://www2.stat.duke.edu/~mc301/), [@minebocek](https://twitter.com/minebocek), [Video](https://www.rstudio.com/resources/videos/debugging-techniques-in-rstudio/)
 
-- Adaptive feedback for learnr tutorials, Daniel Kaplan
+- Adaptive feedback for learnr tutorials, Daniel Kaplan, [Video](https://www.rstudio.com/resources/videos/adaptive-feedback-for-learnr-tutorials/)
 
-- Beyond R: Using R Markdown with python, sql, bash, and more, Aaron Berg
+- Beyond R: Using R Markdown with python, sql, bash, and more, Aaron Berg, [Video](https://www.rstudio.com/resources/videos/beyond-r-using-r-markdown-with-python-sql-bash-and-more/)
 
-- [Branding and automating your work with R Markdown](https://github.com/Sorenson-Impact/rmarkdown-branding-talk), [Daniel Hadley](http://danielphadley.com/), [@danielphadley](https://twitter.com/danielphadley)
+- [Branding and automating your work with R Markdown](https://github.com/Sorenson-Impact/rmarkdown-branding-talk), [Daniel Hadley](http://danielphadley.com/), [@danielphadley](https://twitter.com/danielphadley), [Video](https://www.rstudio.com/resources/videos/branding-and-automating-your-work-with-r-markdown/)
 
 ### Programming
 
-- Tidy eval: programming with dplyr, tidyr, and ggplot2, Hadley Wickham
+- Tidy eval: programming with dplyr, tidyr, and ggplot2, Hadley Wickham, [expressions](https://adv-r.hadley.nz/expressions.html), [quasiquotation](https://adv-r.hadley.nz/quasiquotation.html), [evaluation](https://adv-r.hadley.nz/evaluation.html), [Video](https://www.rstudio.com/resources/videos/tidy-eval-programming-with-dplyr-tidyr-and-ggplot2/)
 
-- [Data rectangling](https://speakerdeck.com/jennybc/data-rectangling-1), [Jenny Bryan](https://github.com/jennybc), [@JennyBryan](https://twitter.com/JennyBryan)
+- [Data rectangling](https://speakerdeck.com/jennybc/data-rectangling-1), [Jenny Bryan](https://github.com/jennybc), [@JennyBryan](https://twitter.com/JennyBryan), [Video](https://www.rstudio.com/resources/videos/data-rectangling/)
 
-- [An assignment operator to unpack vectors and lists](https://github.com/nteetor/presentations/tree/master/rstudio-conf-2018#readme), [Nathan Teetor](https://github.com/nteetor), [@ntweetor](https://twitter.com/ntweetor)
+- [An assignment operator to unpack vectors and lists](https://github.com/nteetor/presentations/tree/master/rstudio-conf-2018#readme), [Nathan Teetor](https://github.com/nteetor), [@ntweetor](https://twitter.com/ntweetor), [Video](https://www.rstudio.com/resources/videos/an-assignment-operator-to-unpack-vectors-and-lists/)
 
-- [Debugging techniques in RStudio](https://github.com/ajmcoqui/debuggingRStudio), [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui)
+- [Debugging techniques in RStudio](https://github.com/ajmcoqui/debuggingRStudio), [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui), [Video](https://www.rstudio.com/resources/videos/debugging-techniques-in-rstudio/)
 
 
 ### Case-study-2
