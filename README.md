@@ -60,9 +60,9 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - Kaggle in the classroom: using R and GitHub to run predictive modeling competitions, Colin Rundel, [Video](https://www.rstudio.com/resources/videos/kaggle-in-the-classroom-using-r-and-github-to-run-predictive-modeling-competitions/)
 
-- [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://github.com/rstudio/rstudio-conf/tree/master/2018/ModernDive_Something_Blue-Chester_Ismay), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester)
+- [Something old, something new, something borrowed, something blue: Ways to teach data science (and learn it too!)](https://github.com/rstudio/rstudio-conf/tree/master/2018/ModernDive_Something_Blue-Chester_Ismay), [Chester Ismay](http://chester.rbind.io/), [@old_man_chester](https://twitter.com/old_man_chester), [Video](https://www.rstudio.com/resources/videos/something-old-something-new-something-borrowed-something-blue-ways-to-teach-data-science-and-learn-it-too/)
 
-- [Training an army of new data scientists](https://www.slideshare.net/Pinnacle_Twitter/r-studio-conference), Marco Blume, [@PinnacleSports](https://twitter.com/PinnacleSports)
+- [Training an army of new data scientists](https://www.slideshare.net/Pinnacle_Twitter/r-studio-conference), Marco Blume, [@PinnacleSports](https://twitter.com/PinnacleSports), [Video](https://www.rstudio.com/resources/videos/training-an-army-of-new-data-scientists/)
 
 ### Case-study-4
 
@@ -92,17 +92,17 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Keynote
 
-- [To the tidyverse and beyond: Challenges for the Future in Data Science](http://www.dicook.org/files/rstudio/#1), [Diane Cook](http://www.dicook.org/), [@visnut](https://twitter.com/visnut)
+- [To the tidyverse and beyond: Challenges for the Future in Data Science](http://www.dicook.org/files/rstudio/#1), [Diane Cook](http://www.dicook.org/), [@visnut](https://twitter.com/visnut), [Video](https://www.rstudio.com/resources/videos/to-the-tidyverse-and-beyond/)
 
 ### Tidy-1
 
-- [Tidy spatial data analysis](https://github.com/edzer/rstudio_conf), [Edzer Pebesma](https://github.com/edzer)
+- [Tidy spatial data analysis](https://github.com/edzer/rstudio_conf), [Edzer Pebesma](https://github.com/edzer, [Video](https://www.rstudio.com/resources/videos/tidy-spatial-data-analysis/)
 
-- [The future of time series and financial analysis in the tidyverse](https://github.com/business-science/presentations/tree/master/2018_02_02_rstudio-conf-2018/presentation), [Davis Vaughan](https://github.com/DavisVaughan?tab=repositories), [@dvaughan32](https://twitter.com/dvaughan32)
+- [The future of time series and financial analysis in the tidyverse](https://github.com/business-science/presentations/tree/master/2018_02_02_rstudio-conf-2018/presentation), [Davis Vaughan](https://github.com/DavisVaughan?tab=repositories), [@dvaughan32](https://twitter.com/dvaughan32), [Video](https://www.rstudio.com/resources/videos/the-future-of-time-series-and-financial-analysis-in-the-tidyverse/)
 
-- [infer: a package for tidy statistical inference](http://bit.ly/2DYoBOz), [Andrew Bray](http://infer.netlify.com/)
+- [infer: a package for tidy statistical inference](https://www.dropbox.com/s/2i9rthzqnymbugo/infer-rstudio-conf.key?dl=0), [Andrew Bray](http://infer.netlify.com/), [Video](https://www.rstudio.com/resources/videos/infer-a-package-for-tidy-statistical-inference/), [Video](https://www.rstudio.com/resources/videos/infer-a-package-for-tidy-statistical-inference/)
 
-- [Tidying up your network analysis with tidygraph and ggraph](https://www.data-imaginist.com/slides/rstudioconf2018/assets/player/keynotedhtmlplayer#0), [Thomas Lin Pedersen](https://github.com/thomasp85), [@thomasp85](https://twitter.com/thomasp85)
+- [Tidying up your network analysis with tidygraph and ggraph](https://www.data-imaginist.com/slides/rstudioconf2018/assets/player/keynotedhtmlplayer#0), [Thomas Lin Pedersen](https://github.com/thomasp85), [@thomasp85](https://twitter.com/thomasp85), [Video](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
 
 ### Shiny
 
@@ -126,13 +126,13 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Tidy-2
 
-- [The lesser known stars of the tidyverse](https://github.com/robinsones/rstudio-conf-2018-talk), [Emily Robinson](https://robinsones.github.io/), [@robinson_es](https://twitter.com/robinson_es)
+- [The lesser known stars of the tidyverse](https://github.com/robinsones/rstudio-conf-2018-talk), [Emily Robinson](https://robinsones.github.io/), [@robinson_es](https://twitter.com/robinson_es), [Video](https://www.rstudio.com/resources/videos/the-lesser-known-stars-of-the-tidyverse/)
 
-- [Augmenting data exploration with interactive graphics](https://talks.cpsievert.me/20180202), [Carson Sievert](http://cpsievert.me/), [@cpsievert](http://twitter.com/cpsievert/)
+- [Augmenting data exploration with interactive graphics](https://talks.cpsievert.me/20180202), [Carson Sievert](http://cpsievert.me/), [@cpsievert](http://twitter.com/cpsievert/), [Video](https://www.rstudio.com/resources/videos/creating-interactive-web-graphics-suitable-for-exploratory-data-analysis/)
 
-- [tidycf: Turning analysis on its head by turning cashflows on their sides](https://www.slideshare.net/EmilyRiederer/tidycf-turning-cashflows-on-their-sides-to-turn-analysis-on-its-head), [Emily Riederer](https://www.linkedin.com/in/emilyriederer/), [@EmilyRiederer](https://twitter.com/EmilyRiederer)
+- [tidycf: Turning analysis on its head by turning cashflows on their sides](https://www.slideshare.net/EmilyRiederer/tidycf-turning-cashflows-on-their-sides-to-turn-analysis-on-its-head), [Emily Riederer](https://www.linkedin.com/in/emilyriederer/), [@EmilyRiederer](https://twitter.com/EmilyRiederer), [Video](https://www.rstudio.com/resources/videos/tidycf-turning-analysis-on-its-head-by-turning-cashflows-on-their-sides/)
 
-- [Modeling in the tidyverse](https://github.com/topepo/rstudio-conf/tree/master/2018/Modeling_in_the_Tidyverse--Max_Kuhn), [Max Kuhn](https://github.com/topepo), [@topepos](https://twitter.com/topepos)
+- [Modeling in the tidyverse](https://github.com/topepo/rstudio-conf/tree/master/2018/Modeling_in_the_Tidyverse--Max_Kuhn), [Max Kuhn](https://github.com/topepo), [@topepos](https://twitter.com/topepos), [Video](https://www.rstudio.com/resources/videos/modeling-in-the-tidyverse/)
 
 ### Case-study-1
 
