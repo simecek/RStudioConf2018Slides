@@ -138,7 +138,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [The unreasonable effectiveness of empathy](https://github.com/rstudio/rstudio-conf/blob/master/2018/Rstudio_%20unreasonable%20empathy.pdf), [JD Long](https://github.com/CerebralMastication), [@CMastication](https://twitter.com/CMastication), [Video](https://www.rstudio.com/resources/videos/the-unreasonable-effectiveness-of-empathy/)
 
-- Open-source solutions for medical marijuana, Carl Ganz, [Video](https://www.rstudio.com/resources/videos/open-source-solutions-for-medical-marijuana/)
+- [Open-source solutions for medical marijuana](https://www.cannadata.com/slides/RStudioConf.html), [Carl Ganz](https://github.com/carlganz), [Video](https://www.rstudio.com/resources/videos/open-source-solutions-for-medical-marijuana/) 
 
 - Data driven decisions, Logan Meltabarger, [Video](https://www.rstudio.com/resources/videos/data-driven-decisions/)
 
