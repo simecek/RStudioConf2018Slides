@@ -135,11 +135,11 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Case-study-1
 
-- [The unreasonable effectiveness of empathy](https://github.com/rstudio/rstudio-conf/blob/master/2018/Rstudio_%20unreasonable%20empathy.pdf), [JD Long](https://github.com/CerebralMastication), [@CMastication](https://twitter.com/CMastication)
+- [The unreasonable effectiveness of empathy](https://github.com/rstudio/rstudio-conf/blob/master/2018/Rstudio_%20unreasonable%20empathy.pdf), [JD Long](https://github.com/CerebralMastication), [@CMastication](https://twitter.com/CMastication), [Video](https://www.rstudio.com/resources/videos/the-unreasonable-effectiveness-of-empathy/)
 
-- Open-source solutions for medical marijuana, Carl Ganz
+- Open-source solutions for medical marijuana, Carl Ganz, [Video](https://www.rstudio.com/resources/videos/open-source-solutions-for-medical-marijuana/)
 
-- TBD, Logan Meltabarger
+- Data driven decisions, Logan Meltabarger, [Video](https://www.rstudio.com/resources/videos/data-driven-decisions/)
 
 - [Phrasing: communicating data science through tweets, gifs, and classic misdirection](https://github.com/batpigandme/phrasing), [Mara Averick, @dataandme](https://twitter.com/dataandme)
 
@@ -166,9 +166,9 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 ### Case-study-2
 
-- Rapid prototyping data products using Shiny, Tanya Cashorali
+- Rapid prototyping data products using Shiny, Tanya Cashorali, [Video](https://community.rstudio.com/t/rapid-prototyping-data-products-using-shiny/5948), [@tanyacash21](https://twitter.com/tanyacash21)
 
-- [Understanding PCA using Shiny and Stack Overflow data](https://speakerdeck.com/juliasilge/understanding-principal-component-analysis-using-stack-overflow-data), [Julia Silge](https://juliasilge.com/), [@juliasilge](https://twitter.com/juliasilge)
+- [Understanding PCA using Shiny and Stack Overflow data](https://speakerdeck.com/juliasilge/understanding-principal-component-analysis-using-stack-overflow-data), [Julia Silge](https://juliasilge.com/), [@juliasilge](https://twitter.com/juliasilge), [Video](https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/)
 
 - Accelerating cancer research with R, Sandra Griffith
 
