@@ -21,7 +21,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Keynote
 
-[Machine Learning with R and TensorFlow](https://beta.rstudioconnect.com/ml-with-tensorflow-and-r/), [JJ Allaire](https://github.com/jjallaire), [@fly_upside_down](https://twitter.com/fly_upside_down)
+[Machine Learning with R and TensorFlow](https://beta.rstudioconnect.com/ml-with-tensorflow-and-r/), [JJ Allaire](https://github.com/jjallaire), [@fly_upside_down](https://twitter.com/fly_upside_down), [Video](https://www.youtube.com/watch?v=atiYXm7JZv0)
 
 ### Packages
 
@@ -31,7 +31,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - [What makes a great R package?](https://github.com/joseph-rickert/RStudio-conf_2018), [Joseph Rickert](https://github.com/joseph-rickert), [@rstudiojoe](https://twitter.com/rstudiojoe), [Video](https://www.rstudio.com/resources/videos/what-makes-a-great-r-package/)
 
-- [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme), [Video](https://www.rstudio.com/resources/videos/contributing-to-tidyverse-packages/), [Video](https://www.rstudio.com/resources/videos/contributing-to-tidyverse-packages/)
+- [Contributing to the tidyverse](http://bit.ly/tverse-contrib), [Mara Averick, @dataandme](https://twitter.com/dataandme), [Video](https://www.rstudio.com/resources/videos/contributing-to-tidyverse-packages/)
 
 ### Case-study-3
 
@@ -88,8 +88,6 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ## Friday 2018-02-02
 
-Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
-
 ### Keynote
 
 - [To the tidyverse and beyond: Challenges for the Future in Data Science](http://www.dicook.org/files/rstudio/#1), [Diane Cook](http://www.dicook.org/), [@visnut](https://twitter.com/visnut), [Video](https://www.rstudio.com/resources/videos/to-the-tidyverse-and-beyond/)
@@ -100,7 +98,7 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [The future of time series and financial analysis in the tidyverse](https://github.com/business-science/presentations/tree/master/2018_02_02_rstudio-conf-2018/presentation), [Davis Vaughan](https://github.com/DavisVaughan?tab=repositories), [@dvaughan32](https://twitter.com/dvaughan32), [Video](https://www.rstudio.com/resources/videos/the-future-of-time-series-and-financial-analysis-in-the-tidyverse/)
 
-- [infer: a package for tidy statistical inference](https://www.dropbox.com/s/2i9rthzqnymbugo/infer-rstudio-conf.key?dl=0), [Andrew Bray](http://infer.netlify.com/), [Video](https://www.rstudio.com/resources/videos/infer-a-package-for-tidy-statistical-inference/), [Video](https://www.rstudio.com/resources/videos/infer-a-package-for-tidy-statistical-inference/)
+- [infer: a package for tidy statistical inference](https://www.dropbox.com/s/2i9rthzqnymbugo/infer-rstudio-conf.key?dl=0), [Andrew Bray](http://infer.netlify.com/), [Video](https://www.rstudio.com/resources/videos/infer-a-package-for-tidy-statistical-inference/)
 
 - [Tidying up your network analysis with tidygraph and ggraph](https://www.data-imaginist.com/slides/rstudioconf2018/assets/player/keynotedhtmlplayer#0), [Thomas Lin Pedersen](https://github.com/thomasp85), [@thomasp85](https://twitter.com/thomasp85), [Video](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
 
