@@ -5,7 +5,7 @@ Links to slides for talks at the
 
 Schedule: <https://www.rstudio.com/conference/#conference>
 
-Official [rstudio-conf repo](https://github.com/rstudio/rstudio-conf/tree/master/2018) for all the materials
+Official [rstudio-conf repo](https://github.com/rstudio/rstudio-conf/tree/master/2018) and [video resources](https://www.rstudio.com/resources/webinars/#rstudioconf2018)
 
 Pull requests welcome! Or add an issue, or tweet
 [@simecek](https://twitter.com/simecek) or email
@@ -114,11 +114,11 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### IDE/rmarkdown
 
-- [RStudio 1.1 new features](https://kevinushey-2018-rstudio-conf.netlify.com/slides.html#1), [Kevin Ushey](http://kevinushey.github.io/), [@kevin_ushey](https://twitter.com/kevin_ushey)
+- [RStudio 1.1 new features](https://kevinushey-2018-rstudio-conf.netlify.com/slides.html#1), [Kevin Ushey](http://kevinushey.github.io/), [@kevin_ushey](https://twitter.com/kevin_ushey), [🎥](https://www.rstudio.com/resources/videos/rstudio-1-1-new-features/)
 
-- RStudio Server Pro 1.1 new features, Jonathan McPherson, [🎥](https://buff.ly/2FrvjRO)
+- RStudio Server Pro 1.1 new features, Jonathan McPherson, [🎥](https://www.rstudio.com/resources/videos/rstudio-server-pro-1-1-new-features/)
 
-- Learning R with rstudio.cloud, Mel Gregory
+- Learning R with rstudio.cloud, Mel Gregory, [🎥](https://www.rstudio.com/resources/videos/learning-r-with-rstudio-cloud/)
 
 - [Blogdown](https://slides.yihui.name/2018-blogdown-rstudio-conf-Yihui-Xie.html), [Yihui Xie](https://yihui.name/), [@xieyihui](https://twitter.com/xieyihui), [🎥](https://www.rstudio.com/resources/videos/create-and-maintain-websites-with-r-markdown-and-blogdown/)
 
@@ -140,7 +140,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 - Data driven decisions, Logan Meltabarger, [🎥](https://www.rstudio.com/resources/videos/data-driven-decisions/)
 
-- [Phrasing: communicating data science through tweets, gifs, and classic misdirection](https://github.com/batpigandme/phrasing), [Mara Averick, @dataandme](https://twitter.com/dataandme)
+- [Phrasing: communicating data science through tweets, gifs, and classic misdirection](https://github.com/batpigandme/phrasing), [Mara Averick, @dataandme](https://twitter.com/dataandme), [🎥](https://www.rstudio.com/resources/videos/phrasing-communicating-data-science-through-tweets-gifs-and-classic-misdirection/)
 
 ### Rmarkdown
 
@@ -165,7 +165,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Case-study-2
 
-- Rapid prototyping data products using Shiny, Tanya Cashorali, [🎥](https://community.rstudio.com/t/rapid-prototyping-data-products-using-shiny/5948), [@tanyacash21](https://twitter.com/tanyacash21)
+- Rapid prototyping data products using Shiny, Tanya Cashorali, [@tanyacash21](https://twitter.com/tanyacash21), [🎥](https://community.rstudio.com/t/rapid-prototyping-data-products-using-shiny/5948)
 
 - [Understanding PCA using Shiny and Stack Overflow data](https://speakerdeck.com/juliasilge/understanding-principal-component-analysis-using-stack-overflow-data), [Julia Silge](https://juliasilge.com/), [@juliasilge](https://twitter.com/juliasilge), [🎥](https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/)
 
@@ -175,7 +175,7 @@ Live Stream: [Day 2](https://www.youtube.com/watch?v=Ol1FjFR2IMU)
 
 ### Production-1
 
-- R for Presidents, Tareef Kawaf
+- R for Presidents, Tareef Kawaf, [🎥](https://www.rstudio.com/resources/videos/r-for-presidents/)
 
 - [Connecting to open source databases](https://krlmlr.github.io/rstudio-conf18/#1), [Kirill Müller](https://github.com/krlmlr), [@krlmlr](https://twitter.com/krlmlr), [🎥](https://www.rstudio.com/resources/videos/connecting-to-open-source-databases/)
 
